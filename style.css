@@ -1,0 +1,46 @@
+body {
+	cursor: url('cursor.gif'), auto;
+	background-color: #1c1c1c;
+	font-size: 16px;
+}
+
+div {
+
+	vertical-align: middle;
+}
+
+img {
+
+	margin-top: 20%;
+	vertical-align: middle;
+}
+
+input {
+	text-align: center;
+	color: #D2738A;
+	border-color: #D2738A;
+	background-color: #1c1c1c;
+	margin-top: 10px;
+	margin-bottom: 15px;
+
+}
+
+td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+a {
+	color: #D2738A;
+    text-decoration: none;
+}
+
+a:visited { 
+    color: #D2738A;
+    text-decoration: none;
+}
+
+a {
+	cursor:url("cursor2.gif"),
+	default;
+	}
